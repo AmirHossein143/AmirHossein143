@@ -64,7 +64,7 @@
       <rect x="2" y="11" width="5" height="5" rx="1.2"/><rect x="9" y="11" width="5" height="5" rx="1.2"/><rect x="16" y="11" width="5" height="5" rx="1.2"/>
       <rect x="2" y="18" width="5" height="5" rx="1.2"/><rect x="9" y="18" width="5" height="5" rx="1.2"/><rect x="16" y="18" width="5" height="5" rx="1.2"/>
     </g>
-    <text x="34" y="14" class="num">135</text>
+    <text x="34" y="14" class="num">137</text>
     <text x="35" y="34" class="label">Total Contributions</text>
   </g>
 </svg>
