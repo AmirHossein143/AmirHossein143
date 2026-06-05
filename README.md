@@ -101,10 +101,11 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirHossein143&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHossein143&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/AmirHossein143?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=8B5CF6)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmirHossein143&query=%24.public_repos&style=for-the-badge&logo=github&label=Repositories&labelColor=0D1117&color=8B5CF6)
+![HuLagU Stars](https://img.shields.io/github/stars/AmirHossein143/HuLagU?style=for-the-badge&logo=github&label=HuLagU%20Stars&labelColor=0D1117&color=8B5CF6)
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=AmirHossein143&hide_border=true&background=0D1117&border=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
@@ -118,7 +119,7 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME_HERE)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_HERE)
 
 </div>
 
