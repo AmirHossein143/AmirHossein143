@@ -101,16 +101,9 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 
 <div align="center">
 
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmirHossein143&query=%24.public_repos&style=for-the-badge&logo=github&label=Total%20Repositories&labelColor=0D1117&color=8B5CF6)
-
-<!--
-  The card below shows Total Stars, Total Commits (all-time) and Contributions.
-  These aggregate numbers can ONLY come from a stats-card generator.
-  If it ever fails to load, deploy your OWN free copy of github-readme-stats
-  (see instructions in chat) and replace the host below with your own URL,
-  e.g.  https://YOUR-INSTANCE.vercel.app/api?username=AmirHossein143&...
--->
-<img src="https://github-readme-stats.vercel.app/api?username=AmirHossein143&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats — total stars, total commits, contributions" />
+<!-- This is a LOCAL file in your repo — it can never fail to load.
+     Upload github-stats.svg to your repo root (next to this README). -->
+<img src="./github-stats.svg" alt="Amir Hossein's GitHub statistics" width="500" />
 
 </div>
 
