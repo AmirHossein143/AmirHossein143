@@ -3,7 +3,7 @@
 <!-- ============================================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Amir%20Hossein&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20Networking%20%26%20Infrastructure&descSize=18&descAlignY=58" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Amir%20Hossein&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20Networking%20and%20Infrastructure&descSize=18&descAlignY=58" width="100%" alt="header banner" />
 
 <img src="https://komarev.com/ghpvc/?username=AmirHossein143&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views" />
 
@@ -97,14 +97,28 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirHossein143&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHossein143&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AmirHossein143&hide_border=true&background=0D1117&border=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<!-- Replace the links below with your own URLs -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME_HERE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME_HERE)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_HERE)
 
 </div>
 
