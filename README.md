@@ -103,7 +103,7 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 
 <!-- This is a LOCAL file in your repo — it can never fail to load.
      Upload github-stats.svg to your repo root (next to this README). -->
-<img src="./github-stats.svg" alt="Amir Hossein's GitHub statistics" width="500" />
+<img src="./github-stats.svg?raw=true" alt="Amir Hossein's GitHub statistics" width="500" />
 
 </div>
 

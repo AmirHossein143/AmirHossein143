@@ -3,7 +3,7 @@ name: Update GitHub Stats Card
 on:
   schedule:
     - cron: "0 3 * * *"      # every day at 03:00 UTC
-  workflow_dispatch:          # adds a manual "Run workflow" button
+  workflow_dispatch:          # manual "Run workflow" button
   push:
     branches: [ main, master ]
     paths:
@@ -13,6 +13,9 @@ on:
 
 permissions:
   contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # suppress Node 20 deprecation warning
 
 jobs:
   update-stats:
