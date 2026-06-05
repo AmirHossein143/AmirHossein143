@@ -31,7 +31,6 @@ I'm a software developer who builds full-stack and mobile applications on top of
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & Frameworks**
 
@@ -43,9 +42,6 @@ I'm a software developer who builds full-stack and mobile applications on top of
 **Frontend & Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Databases**
 
@@ -58,7 +54,6 @@ I'm a software developer who builds full-stack and mobile applications on top of
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Kerio Control](https://img.shields.io/badge/Kerio_Control-005DAA?style=for-the-badge&logoColor=white)
 
 **Tools & Platforms**
