@@ -19,7 +19,7 @@ I'm a software developer who builds full-stack and mobile applications on top of
 - 🌱 Currently learning **VTCA-DCV** and **CompTIA Security+**
 - 🧠 I enjoy bridging **software development** with **networking & infrastructure**
 - 🎮 Turning algorithms into real things — game AI, network optimizers, and more
-- 💬 Ask me about Python backends, Flutter, or networking
+- 💬 Ask me about Python backends, Flutter, or networking, security topics
 
 ---
 
