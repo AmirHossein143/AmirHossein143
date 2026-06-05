@@ -1,16 +1,139 @@
-## Hi there 👋
+<!-- ============================================= -->
+<!--  HEADER BANNER                                -->
+<!-- ============================================= -->
+<div align="center">
 
-<!--
-**AmirHossein143/AmirHossein143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Amir%20Hossein&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20Networking%20%26%20Infrastructure&descSize=18&descAlignY=58" width="100%" alt="header banner" />
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=AmirHossein143&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 💜 About Me
+
+I'm a software developer who builds full-stack and mobile applications on top of a solid networking and systems foundation. I like taking ideas all the way to working products — from a latency-optimization tool for gamers to cross-platform apps and game AI.
+
+- 🔭 Currently building a comprehensive **life-planner & routine app** for Android (Flutter + FastAPI)
+- 🌱 Currently learning **VTCA-DCV** and **CompTIA Security+**
+- 🧠 I enjoy bridging **software development** with **networking & infrastructure**
+- 🎮 Turning algorithms into real things — game AI, network optimizers, and more
+- 💬 Ask me about Python backends, Flutter, or networking
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend & Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+**Frontend & Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Networking & Infrastructure**
+
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Network+](https://img.shields.io/badge/Network%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Kerio Control](https://img.shields.io/badge/Kerio_Control-005DAA?style=for-the-badge&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 [HuLagU](https://github.com/AmirHossein143/HuLagU) — Network Optimization for Gamers
+A network optimization tool built to reduce latency (ping) and deliver a smoother online gaming experience. Combines low-level networking knowledge with practical software engineering.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+### 📅 Life Routine Planner *(In Development)*
+A comprehensive, cross-platform planner and life-routine app for Android. Designed around a robust backend with structured data models and a clean mobile experience.
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+### 🎮 [Meridian](https://github.com/AmirHossein143/Meridian-Tic-Tac-Toe) — Tic-Tac-Toe with an Unbeatable AI
+A PC game (Android version coming) featuring an AI opponent powered by the **Minimax algorithm with Alpha-Beta pruning** for optimal, efficient decision-making.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Algorithm](https://img.shields.io/badge/-Minimax%20%2B%20Alpha--Beta-8B5CF6?style=flat-square)
+
+### 🏠 [Nishita Kahome](https://nishitakahome.online/) — Production Website
+A live website built and deployed end-to-end, served via Nginx on a self-managed server.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirHossein143&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHossein143&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AmirHossein143&hide_border=true&background=0D1117&border=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AmirHossein143&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<!-- Replace the links below with your own URLs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME_HERE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_HERE)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%" alt="footer banner" />
+
+</div>
