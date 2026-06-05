@@ -19,7 +19,7 @@ I'm a software developer who builds full-stack and mobile applications on top of
 - 🌱 Currently learning **VTCA-DCV** and **CompTIA Security+**
 - 🧠 I enjoy bridging **software development** with **networking & infrastructure**
 - 🎮 Turning algorithms into real things — game AI, network optimizers, and more
-- 💬 Ask me about Python backends, Flutter, or networking, security topics
+- 💬 Ask me about Python backends, Flutter, networking, or security topics
 
 ---
 
@@ -94,25 +94,6 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirHossein143&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHossein143&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=AmirHossein143&hide_border=true&background=0D1117&border=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmirHossein143&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-
-</div>
 
 ---
 
