@@ -101,13 +101,16 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/AmirHossein143?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=8B5CF6)
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmirHossein143&query=%24.public_repos&style=for-the-badge&logo=github&label=Repositories&labelColor=0D1117&color=8B5CF6)
-![HuLagU Stars](https://img.shields.io/github/stars/AmirHossein143/HuLagU?style=for-the-badge&logo=github&label=HuLagU%20Stars&labelColor=0D1117&color=8B5CF6)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmirHossein143&query=%24.public_repos&style=for-the-badge&logo=github&label=Total%20Repositories&labelColor=0D1117&color=8B5CF6)
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=AmirHossein143&hide_border=true&background=0D1117&border=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<!--
+  The card below shows Total Stars, Total Commits (all-time) and Contributions.
+  These aggregate numbers can ONLY come from a stats-card generator.
+  If it ever fails to load, deploy your OWN free copy of github-readme-stats
+  (see instructions in chat) and replace the host below with your own URL,
+  e.g.  https://YOUR-INSTANCE.vercel.app/api?username=AmirHossein143&...
+-->
+<img src="https://github-readme-stats.vercel.app/api?username=AmirHossein143&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats — total stars, total commits, contributions" />
 
 </div>
 
