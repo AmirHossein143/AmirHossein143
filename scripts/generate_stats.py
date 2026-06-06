@@ -21,7 +21,6 @@ import sys
 import json
 import datetime
 import urllib.request
-import urllib.error
 
 TOKEN    = os.environ.get("GH_TOKEN")
 USER     = os.environ.get("GH_USERNAME")
