@@ -113,8 +113,8 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME_HERE)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME_HERE](https://www.linkedin.com/in/amirhossein-poudratchi-66a86b266/))
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:a.h.poodi@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_HERE)
 
 </div>
