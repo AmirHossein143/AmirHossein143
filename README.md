@@ -72,6 +72,7 @@ A network optimization tool built to reduce latency (ping) and deliver a smoothe
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 📅 Life Routine Planner *(In Development)*
 A comprehensive, cross-platform planner and life-routine app for Android. Designed around a robust backend with structured data models and a clean mobile experience.
@@ -84,7 +85,8 @@ A comprehensive, cross-platform planner and life-routine app for Android. Design
 ### 🎮 [Meridian](https://github.com/AmirHossein143/Meridian-Tic-Tac-Toe) — Tic-Tac-Toe with an Unbeatable AI
 A PC game (Android version coming) featuring an AI opponent powered by the **Minimax algorithm with Alpha-Beta pruning** for optimal, efficient decision-making.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Algorithm](https://img.shields.io/badge/-Minimax%20%2B%20Alpha--Beta-8B5CF6?style=flat-square)
 
 ### 🏠 [NishitaKa Home](https://nishitakahome.online/) — Production Website
