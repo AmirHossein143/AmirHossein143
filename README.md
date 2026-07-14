@@ -101,9 +101,9 @@ A live website built and deployed end-to-end, served via Nginx on a self-managed
 
 <div align="center">
 
-<!-- This is a LOCAL file in your repo — it can never fail to load.
-     Upload github-stats.svg to your repo root (next to this README). -->
-<img src="./github-stats.svg?raw=true" alt="Amir Hossein's GitHub statistics" width="500" />
+<!-- This is a LOCAL file in repo — it can never fail to load.
+     I Uploaded github-stats.svg to my repo root (next to this README). -->
+<img src="./github-stats.svg?raw=true" alt="AmirHossein's GitHub statistics" width="500" />
 
 </div>
 
