@@ -87,7 +87,7 @@ A PC game (Android version coming) featuring an AI opponent powered by the **Min
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Algorithm](https://img.shields.io/badge/-Minimax%20%2B%20Alpha--Beta-8B5CF6?style=flat-square)
 
-### 🏠 [Nishita Kahome](https://nishitakahome.online/) — Production Website
+### 🏠 [NishitaKa Home](https://nishitakahome.online/) — Production Website
 A live website built and deployed end-to-end, served via Nginx on a self-managed server.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)

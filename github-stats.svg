@@ -30,7 +30,7 @@
   </g>
 
   <circle cx="36" cy="38" r="6" fill="url(#accent)" filter="url(#glow)"/>
-  <text x="52" y="36" class="title">Amir Hossein</text>
+  <text x="52" y="36" class="title">AmirHossein</text>
   <text x="52" y="52" class="sub">GITHUB STATISTICS</text>
   <line x1="28" y1="70" x2="472" y2="70" stroke="#21262D" stroke-width="1"/>
 
