@@ -82,7 +82,7 @@ A comprehensive, cross-platform planner and life-routine app for Android. Design
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
-### 🎮 [Meridian](https://github.com/AmirHossein143/Meridian-Tic-Tac-Toe) — Tic-Tac-Toe with an Unbeatable AI
+### 🎮 [Meridian](https://github.com/AmirHossein143/Meridian) — Tic-Tac-Toe with an Unbeatable AI
 A PC game (Android version coming) featuring an AI opponent powered by the **Minimax algorithm with Alpha-Beta pruning** for optimal, efficient decision-making.
 
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
